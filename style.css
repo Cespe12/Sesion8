@@ -25,3 +25,20 @@ h1{
 p{
     font-family: "DM Sans", sans-serif;
 }
+.div-child{
+    background-color: #FFF7FC;
+}
+.div-child h2{
+    color: #6B193B;
+}
+h2{
+    color: #824431;
+    font-family: "DM Serif Display", serif;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table td{
+    border-bottom: 1px solid black;
+}
