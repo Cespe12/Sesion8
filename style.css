@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap');
+
+body{
+    background-color: #f3e5d8;
+}
+div{
+    max-width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+img{
+width: 990px;
+height: 400px;
+display: block;
+margin: 0 auto;
+border-radius: 10px;
+
+}
+h1{
+    color: #824431;
+    font-family: "DM Serif Display", serif;
+}
+p{
+    font-family: "DM Sans", sans-serif;
+}
